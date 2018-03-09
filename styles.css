@@ -1,0 +1,19 @@
+body {
+  position: absolute;
+  font-family: 'Black Ops One', cursive;
+  font-size: 28;
+  margin-left: 5%;
+  background-color: lightgray;
+}
+
+.wrapper {
+  position: relative;
+  width: 400px;
+  height: 300px;
+}
+
+.wrapper canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
